@@ -1,0 +1,8 @@
+git config user.name "Zabrakk1853"
+git config user.email zabrakk1853@op.pl
+cat ~/.ssh/id_rsa.pub
+AAAAB3NzaC1yc2EAAAADAQABAAABAQDNPhc/0rcYVPyfI5XNDYYL0jtRXdI5nvw/1mb9KdeWwVD6TDQT0fU04RSKMV9x9aMU40Es88y7Pfp94vDVVhC1L37xHERNKtrNvXpp/SNakXCg1pjCSABD8aUiygoOMdgqwkMQsTIkgM53lCB1WSPKW32IpMKtZDMw2O2o0AOmBadvhgmJbJGROKWNaWO0yFaOByWsxfOTIsBSkOFM/U2sTryHhMVMk0+iGgLTiqGW2Kjkis7w/igUS5sXvttknJCANayKPDKPpcnGuyoeiVIxTdXJyyLKvgEfzIn9ewR3XYSYMLqjKLD4fRUuYAGDkZwNlOmbpCncgghupmu0jEsD
+
+git config user.name "MaksyM1853"
+git config user.email bananek1853max@gmail.com
+cat ~/.ssh/id_rsa.pub
